@@ -12,5 +12,8 @@
   "files": [
     "script/**/*.sol",
     "src/**/*.sol"
-  ]
+  ],
+  "devDependencies": {
+    "@sphinx-labs/plugins": "^0.30.11"
+  }
 }
